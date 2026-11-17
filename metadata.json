@@ -1,0 +1,8 @@
+{
+  "name": "GLA CBT",
+  "description": "Green Light Academy School Management System and Computer-Based Testing (CBT) platform with Supabase backend and Paystack fee payments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
